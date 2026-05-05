@@ -16,14 +16,17 @@ Também atuo como monitor de inglês, o que fortaleceu minhas habilidades de com
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
-- **Linguagens:** Java  
-- **Banco de Dados:** MySQL, SQL   
-- **Conceitos:**  
-  - CRUD  
-  - Integração com banco de dados  
-  - Organização em camadas  
-  - Boas práticas de programação  
 
----
+### 💻 Linguagens 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+
+### 🗄️ Banco de Dados
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
+
+### 🔧 Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 
 
