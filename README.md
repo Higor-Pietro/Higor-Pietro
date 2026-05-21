@@ -9,21 +9,20 @@
 ## 🚀 Sobre mim
 Tenho grande interesse por tecnologia e desenvolvimento de software, com foco na construção de soluções eficientes, escaláveis e bem estruturadas.
 
-Atualmente, estudo e desenvolvo aplicações back-end utilizando Java e banco de dados SQL, aplicando boas práticas de programação e organização de código.
-
+Atualmente, estudo e desenvolvo aplicações back-end utilizando Java, Spring Boot e banco de dados SQL, aplicando boas práticas de programação e organização de código.
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-### 💻 Linguagens 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### 🗄️ Banco de Dados
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🔧 Ferramentas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" height="55" alt="Java"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="55" height="55" alt="Spring Boot"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" height="55" alt="MySQL"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55" alt="Git"/>
+</p>
 
 
