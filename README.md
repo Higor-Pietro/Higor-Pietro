@@ -23,6 +23,8 @@ Atualmente, estudo e desenvolvo aplicações back-end utilizando Java, Spring Bo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" height="55" alt="MySQL"/>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55" alt="Git"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" width="55" height="55" alt="LaTeX"/>
 </p>
 
 
